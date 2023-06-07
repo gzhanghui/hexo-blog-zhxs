@@ -26,7 +26,7 @@
   },
   "devDependencies": {
     "install": "^0.13.0",
-    "npm": "^9.6.7",
+    "npm": "^9.7.1",
     "stylus": "^0.59.0",
     "stylus-loader": "^7.1.1"
   }
