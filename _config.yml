@@ -103,4 +103,7 @@ theme: cactus
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: rsync
+  host: 120.46.223.216
+  user: root
+  root: /var/www/hexo-blog-zhxs/
